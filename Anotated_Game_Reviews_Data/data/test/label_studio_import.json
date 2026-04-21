@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "question": "What is the overall review score category for House Flipper on Steam?",
+      "document": "Game: House Flipper\nSteam Review Score: Very Positive\nTotal Reviews: 42,855\nPositive Reviews: 40,404\nNegative Reviews: 2,451\nPositive Percentage: 94.3%\nPositive to Negative Ratio: 16.48\n\nPlayer Reviews:\nReview 1 (Recommended): 9 Tacos out of 13, would recommend. I wish there were more guides/tutorials further on in the game.\nReview 2 (Recommended): Its very fun\nReview 3 (Recommended): Perfect game to play while listening to an audiobook/podcast. Very chill and fun.\nReview 4 (Recommended): yes\nReview 5 (Recommended): I love this game. I can spend hours on it at a time just renovating like a madman.",
+      "existing_answer": "Very Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "question": "What percentage of Steam reviews for Middle-earth Shadow of War are positive?",
+      "document": "Game: Middle-earth Shadow of War \nSteam Review Score: Very Positive\nTotal Reviews: 38,649\nPositive Reviews: 33,688\nNegative Reviews: 4,961\nPositive Percentage: 87.2%\nPositive to Negative Ratio: 6.79\n\nPlayer Reviews:\nReview 1 (Recommended): Goated\nReview 2 (Recommended): What a great game, tons to do, big open world maps to explore, LOTS of bloody fights with the orcs, good leveling system and skills. Played on both Steam Deck and PC flawlessly, Loved it.\nReview 3 (Recommended): AWESOME\nReview 4 (Recommended): As long as I have breath in my body... My fate is my own.\nReview 5 (Recommended): I wish I could make people be my friends in real life...",
+      "existing_answer": "87.2%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "question": "What is the primary gameplay mechanic of Baldurs Gate 3?",
+      "document": "Game: Baldurs Gate 3\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 303,878\nPositive Reviews: 293,805\nNegative Reviews: 10,073\nPositive Percentage: 96.7%\nPositive to Negative Ratio: 29.17\n\nPlayer Reviews:\nReview 1 (Recommended): Gale has a cat and said [spoiler] the stars don't compare to my eyes [/spoiler]\nReview 2 (Recommended): I get to kiss pretty women, also there's like fighting or something going on idk 10/10\nReview 3 (Recommended): Game of the year\nReview 4 (Recommended): I LOVE MY GIRLFRIEND SHADOWHEART <3 I AM SO EMOTIONALLY INVESTED IN ALL THE CHARACTERS. THE GAME GIVES YOU SO MUCH FREEDOM TO HAVE A DIFFERENT GAME PLAY EVERY SINGLE TIME. WHAT THE GAME PROVIDES YOU MAKES ITS PRICE POINT A FREAKING STEAL!\nReview 5 (Recommended): you can play naked, what more do you need to convince you ?",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Total War SHOGUN 2 on Steam?",
+      "document": "Game: Total War SHOGUN 2\nSteam Review Score: Very Positive\nTotal Reviews: 29,588\nPositive Reviews: 27,268\nNegative Reviews: 2,320\nPositive Percentage: 92.2%\nPositive to Negative Ratio: 11.75\n\nPlayer Reviews:\nReview 1 (Recommended): is good.\nReview 2 (Recommended): The best Total War I have ever played. BANZAI!\nReview 3 (Recommended): it was awesome\nReview 4 (Recommended): Total War Shogun 2 is perhaps the best of the Historical TW games. A concise theme that would inspire other games like Britannia and Troy, Shogun is far and above the more solid title even today, graphically the game holds up better that Rome 2 in my opinion, and shaders/texture mods are always an \nReview 5 (Recommended): r8 gud game duck",
+      "existing_answer": "11.75",
+      "split": "test"
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "question": "What is the overall review score category for Outpath on Steam?",
+      "document": "Game: Outpath\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 892\nPositive Reviews: 863\nNegative Reviews: 29\nPositive Percentage: 96.7%\nPositive to Negative Ratio: 29.76\n\nPlayer Reviews:\nReview 1 (Recommended): where did the time go\nReview 2 (Recommended): Super cozy and chill resource gathering / base management game with a very satisfying progression curve\nReview 3 (Recommended): Great crafting and exploring game\nReview 4 (Recommended): This game opened my eyes, overwhelmingly positive reviews should be taken as a red flag... because I just wanted to try it out for a little while and somehow I spent on this game 5 hours in one sitting.. really thought out game, definitely a thumbs up from me.\nReview 5 (Recommended): I absolutely love this game. The music, the gameplay, the art.. All fantastic. Also David Is always open to suggestions and fixes bugs in the discord. Everyone who loves this game should take the time to tell him you liked it there. <3",
+      "existing_answer": "Overwhelmingly Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "question": "Who developed Grand Theft Auto V?",
+      "document": "Game: Grand Theft Auto V\nSteam Review Score: Very Positive\nTotal Reviews: 527,246\nPositive Reviews: 430,891\nNegative Reviews: 96,355\nPositive Percentage: 81.7%\nPositive to Negative Ratio: 4.47\n\nPlayer Reviews:\nReview 1 (Not Recommended): Grand Theft Auto VI will come out in 2026 for pc, this is a total disrespect to a large number of players.\nReview 2 (Recommended): nice one, it made my childhood :)\nReview 3 (Recommended): Tom Petty\nReview 4 (Recommended): i like hacking\nReview 5 (Recommended): pretty good vehicle handling, gunplay feels amazing, pretty optimized for PC. i never liked GTA V before, but now i might just changed my mind",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 7,
+    "data": {
+      "question": "What is the overall review score category for Evil West on Steam?",
+      "document": "Game: Evil West\nSteam Review Score: Mostly Positive\nTotal Reviews: 3,275\nPositive Reviews: 2,527\nNegative Reviews: 748\nPositive Percentage: 77.2%\nPositive to Negative Ratio: 3.38\n\nPlayer Reviews:\nReview 1 (Recommended): Overall, a pretty decent game. Definitely worth the price on a sale. It's polished in every aspect one could expect, I couldnt find any bug at all, graphics are somewhat pretty and artstyle is solid, I really liked enemy and level design. It's only lacking in the gameplay department, you don't have\nReview 2 (Recommended): Stylish and gruesome Solid brawling and gunplay Ends when it should end\nReview 3 (Not Recommended): The game looks ok. THe combat is very good and easy to learn but the game seems to be some sort of bonus level from God of War meets Red Dead Redemption. It doens't actually feel like a full game because jumping from one enclosed space to the next untiil you kill every single enemy doens't sound li\nReview 4 (Recommended): Just started the game and so far feels good, the combat mechanics are well made !\nReview 5 (Recommended): Absolutely worth the investment, The game looks incredible, Handles like a charm, and has to be some of the most fun i've had playing a game in a while. It perfectly handles introducing new mechanics and abilities at a digestible rate without overloading you with information and keeping you engaged.",
+      "existing_answer": "Mostly Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 8,
+    "data": {
+      "question": "What aspects of V Rising do reviewers find most enjoyable?",
+      "document": "Game: V Rising\nSteam Review Score: Very Positive\nTotal Reviews: 38,026\nPositive Reviews: 33,920\nNegative Reviews: 4,106\nPositive Percentage: 89.2%\nPositive to Negative Ratio: 8.26\n\nPlayer Reviews:\nReview 1 (Recommended): W game, too slept on\nReview 2 (Recommended): vamp\nReview 3 (Recommended): Great game exactly what it advertises thanks for the awesome work\nReview 4 (Recommended): IT SLAYS\nReview 5 (Not Recommended): How dare you delete my coffin",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 9,
+    "data": {
+      "question": "What do players commonly praise about PAYDAY 3 in Steam reviews?",
+      "document": "Game: PAYDAY 3\nSteam Review Score: Mixed\nTotal Reviews: 30,477\nPositive Reviews: 13,111\nNegative Reviews: 17,366\nPositive Percentage: 43.0%\nPositive to Negative Ratio: 0.75\n\nPlayer Reviews:\nReview 1 (Not Recommended): Payday is better, despite being a decade old. Payday 3 is not good\nReview 2 (Not Recommended): Just stick to Payday 2, significantly better game still.\nReview 3 (Not Recommended): Shit scam makes fifa look like a charity shop\nReview 4 (Not Recommended): If there were a \"middle\" option on Steam I'd choose that one. The game itself is fine, a few steps forward from Payday 2 in some ways and a few steps back in others but overall solid. The main problem that I'm sure everyone knows is that the game is always online and uses shoddy dedicated servers. T\nReview 5 (Recommended): good",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 10,
+    "data": {
+      "question": "What do players commonly praise about Tabletop Simulator in Steam reviews?",
+      "document": "Game: Tabletop Simulator\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 39,709\nPositive Reviews: 38,258\nNegative Reviews: 1,451\nPositive Percentage: 96.3%\nPositive to Negative Ratio: 26.37\n\nPlayer Reviews:\nReview 1 (Recommended): flip da table\nReview 2 (Recommended): bro\nReview 3 (Recommended): you [i]could[/i] play games like DND, Settlers of Catan, The game of life. The classics or you can just play games like chungus odyssey, dog, cat.... The stupid (but sometimes funny) games please buy :)\nReview 4 (Recommended): its good if u have multiple games u can play with friends or you will get bored fast\nReview 5 (Recommended): board",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 11,
+    "data": {
+      "question": "What genre is RimWorld?",
+      "document": "Game: RimWorld\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 106,586\nPositive Reviews: 104,665\nNegative Reviews: 1,921\nPositive Percentage: 98.2%\nPositive to Negative Ratio: 54.48\n\nPlayer Reviews:\nReview 1 (Recommended): .\nReview 2 (Recommended): this game is my life now.\nReview 3 (Recommended): a relatively small-medium knowledge gap is the only barrier to playing the best colony sim sandbox game to date. theres something for anyone whose into simulation or management games and looking for one that will light a fire under your ass when it needs to - or let you just chill out and base build\nReview 4 (Recommended): Great game, even better with mods. It's a fun colony building sandbox game with a 'choose your own stakes' sort of survival, where you can either have it be easy-going or hard hitting, all depending on your play style preference.\nReview 5 (Recommended): You can play it like the sims or murder death simulator",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 12,
+    "data": {
+      "question": "Who developed Overwatch 2?",
+      "document": "Game: Overwatch 2\nSteam Review Score: Mostly Negative\nTotal Reviews: 62,728\nPositive Reviews: 14,379\nNegative Reviews: 48,349\nPositive Percentage: 22.9%\nPositive to Negative Ratio: 0.3\n\nPlayer Reviews:\nReview 1 (Not Recommended): poop\nReview 2 (Recommended): i hate this game (I'm addicted)\nReview 3 (Recommended): it's a game\nReview 4 (Not Recommended): worst servers sh*tty services\nReview 5 (Not Recommended): shit matchmaking",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 13,
+    "data": {
+      "question": "What is the overall review score category for Battlefield V on Steam?",
+      "document": "Game: Battlefield V\nSteam Review Score: Mixed\nTotal Reviews: 28,360\nPositive Reviews: 19,722\nNegative Reviews: 8,638\nPositive Percentage: 69.5%\nPositive to Negative Ratio: 2.28\n\nPlayer Reviews:\nReview 1 (Recommended): a pretty good game with friends so you can mess around you can use the boom boom stick to blow your enemies up like a goofy goober you are but many hackers i mean a lot but if you have friends you gonna have a great time without well you get bored so yeah do i recommend it? eh not really do i buy \nReview 2 (Not Recommended): The game is not bad, but you don t feel like you re playing a battlefield like it was in the days when parts 3 and 4 were relevant. Unfortunately, the developers don t want to release games with the same scale. I bought the game at a discount, played for 6 hours and decided to delete it. Because it \nReview 3 (Not Recommended): Cheaters are everywhere, in every match, no support from EA or DICE, DONT BUY THIS GAME\nReview 4 (Not Recommended): Can't save progression on single player mode, multiplayer works only half the time. Overall it has the potential to be a good game but nothing works right. Completely unplayable.\nReview 5 (Not Recommended): buy BF1",
+      "existing_answer": "Mixed",
+      "split": "test"
+    }
+  },
+  {
+    "id": 14,
+    "data": {
+      "question": "What genre is Hades?",
+      "document": "Game: Hades\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 122,685\nPositive Reviews: 121,117\nNegative Reviews: 1,568\nPositive Percentage: 98.7%\nPositive to Negative Ratio: 77.24\n\nPlayer Reviews:\nReview 1 (Recommended): Really butters my biscuit\nReview 2 (Recommended): 9/5\nReview 3 (Recommended): One of the best roguelike. Superb soundtrack, voice acting, scenario. Replayabilty is great. Super value for money when on sale.\nReview 4 (Recommended): Such an addictive game. The \"god mode\" scales really nicely to make things easier while still making it feel satisfyingly challenging.\nReview 5 (Recommended): It good",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 15,
+    "data": {
+      "question": "How many total Steam reviews does Disney Dreamlight Valley have?",
+      "document": "Game: Disney Dreamlight Valley\nSteam Review Score: Very Positive\nTotal Reviews: 10,387\nPositive Reviews: 9,541\nNegative Reviews: 846\nPositive Percentage: 91.9%\nPositive to Negative Ratio: 11.28\n\nPlayer Reviews:\nReview 1 (Recommended): I can't stop with this game!! I have 70hr in 2 weeks. It really is disney animal crossing but more quest based\nReview 2 (Recommended): goo game also try among us\nReview 3 (Recommended): it's fun and easy to understand :)\nReview 4 (Not Recommended): ded game give it a year the crazy monetization will push out the very few players left.\nReview 5 (Not Recommended): I bought into early access in October 2022. Gameloft announced it was going to be free-to-play with microtransactions after early access, then changed their mind part way through, scrapping plans for FTP and moving updates behind an expansion pass. I bought Dreamlight Valley + the \"Ultimate Edition",
+      "existing_answer": "10387",
+      "split": "test"
+    }
+  },
+  {
+    "id": 16,
+    "data": {
+      "question": "What aspects of The Jackbox Party Pack 10 do reviewers find most enjoyable?",
+      "document": "Game: The Jackbox Party Pack 10\nSteam Review Score: Mixed\nTotal Reviews: 306\nPositive Reviews: 204\nNegative Reviews: 102\nPositive Percentage: 66.7%\nPositive to Negative Ratio: 2.0\n\nPlayer Reviews:\nReview 1 (Recommended): It's great, but not the best, especially considering the price increase I'm surprised there wasn't a new YDKJ for number 10 but tee ko is amazing, I will now go over each game individually. Tee Ko 2: It's just better tee ko in most ways, better art tools, better voting system, plus references to m\nReview 2 (Not Recommended): Price was raised and quality was lowered. My group found the set of games pretty bland, there wasn't a standout game like there usually is. I have at least one game on every other pack that we come back to. TKO 2 - Strictly worse than TKO 1. No charm, very barebones, and the final round was made wo\nReview 3 (Recommended): jacques container\nReview 4 (Recommended): I got this as a birthday present and was a little nerves about the game but from what I've been able to play so far, this game is acutely a lot of fun. TEE.KO 2 being my favorite and Time Jinx is a really fun trivia game. But the game I was worried about most Dodo Re Mi. It is not back its a really \nReview 5 (Recommended): Jackbox Party Pack 10 saved my marriage (very true) 10/10",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 17,
+    "data": {
+      "question": "How many positive reviews does Dungeon Alchemist have on Steam?",
+      "document": "Game: Dungeon Alchemist\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 1,764\nPositive Reviews: 1,684\nNegative Reviews: 80\nPositive Percentage: 95.5%\nPositive to Negative Ratio: 21.05\n\nPlayer Reviews:\nReview 1 (Recommended): An incredible tool. It has saved me hours of work! It is a shame it cannot be used as a VTT, but at least you can export it with video files. Would be nice to have an isometric cam off the bat, I do hope to see that implemented :) Great job!\nReview 2 (Recommended): I run D&D sessions with a group of people and this has been an amazing tool for me to use, my players seem to enjoy it too. Especially the first person view feature it brings a whole new way for them to play instead of the hand drawn maps I used to use. So if you wanna run a table top game or just b\nReview 3 (Recommended): My players purchased this for me as a gift, and it has changed our whole play. They love the detail of the maps, and how quick it is to generate a easy, temp map you might need.\nReview 4 (Recommended): Great at building maps. Definitely needs more \"tokens\" or monsters.\nReview 5 (Not Recommended): i was workig on a map for like an hour and the i didn't know how to save and deleted all my progress>:(",
+      "existing_answer": "1684",
+      "split": "test"
+    }
+  },
+  {
+    "id": 18,
+    "data": {
+      "question": "What percentage of Steam reviews for Dead Cells are positive?",
+      "document": "Game: Dead Cells\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 41,108\nPositive Reviews: 39,710\nNegative Reviews: 1,398\nPositive Percentage: 96.6%\nPositive to Negative Ratio: 28.4\n\nPlayer Reviews:\nReview 1 (Recommended): I have been playing this game since the 1.0 (on the Nintendo Switch for hundreds of hours and then bough it on steam). It is easily in my top 20 games of all time. The gameplay is great, the pixel art is magnificent, and the game is constantly updated with free updates.\nReview 2 (Recommended): good game\nReview 3 (Recommended): I suck at this game\nReview 4 (Recommended): good game idk\nReview 5 (Recommended): ye, it's okay",
+      "existing_answer": "96.6%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 19,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for FINAL FANTASY XIV Online on Steam?",
+      "document": "Game: FINAL FANTASY XIV Online\nSteam Review Score: Very Positive\nTotal Reviews: 54,652\nPositive Reviews: 48,737\nNegative Reviews: 5,915\nPositive Percentage: 89.2%\nPositive to Negative Ratio: 8.24\n\nPlayer Reviews:\nReview 1 (Recommended): It's crack. I don't know what else to tell you.\nReview 2 (Recommended): I am one of the lower \"Hours Played\" people here... and I have almost 2500 hours invested. Just get it, its worth it.\nReview 3 (Recommended): Pog0\nReview 4 (Recommended): I like the chocobo's, they are friends\nReview 5 (Recommended): Did you know that the critically acclaimed MMORPG Final Fantasy XIV has a free trial that includes the entirety of A Realm Reborn, the award winning Heavensward expansion and its second major expansion Stormblood, upto level 70 with no restrictions on playtime? Sign up, and join Eorzea today!",
+      "existing_answer": "8.24",
+      "split": "test"
+    }
+  },
+  {
+    "id": 20,
+    "data": {
+      "question": "How many total Steam reviews does It Takes Two have?",
+      "document": "Game: It Takes Two\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 34,204\nPositive Reviews: 32,904\nNegative Reviews: 1,300\nPositive Percentage: 96.2%\nPositive to Negative Ratio: 25.31\n\nPlayer Reviews:\nReview 1 (Not Recommended): EA seal of duct tape.\nReview 2 (Recommended): very fun\nReview 3 (Recommended): im lucky i still have my friend after this.\nReview 4 (Recommended): Very creative and fun, highly recommend. Always something new to do and never gets boring\nReview 5 (Recommended): I can finally trashtalk my girlfriend with reasoning.",
+      "existing_answer": "34204",
+      "split": "test"
+    }
+  },
+  {
+    "id": 21,
+    "data": {
+      "question": "Is Hell Let Loose well-received on Steam?",
+      "document": "Game: Hell Let Loose\nSteam Review Score: Very Positive\nTotal Reviews: 65,831\nPositive Reviews: 53,796\nNegative Reviews: 12,035\nPositive Percentage: 81.7%\nPositive to Negative Ratio: 4.47\n\nPlayer Reviews:\nReview 1 (Recommended): Yes but the game some how uninstalled itself\nReview 2 (Recommended): great awesome\nReview 3 (Not Recommended): Good, people behind it bad.\nReview 4 (Recommended): I had some performance issues while playing the free weekend but it was pretty fun\nReview 5 (Recommended): Not bad! Long way to go, but not bad!",
+      "existing_answer": "Very Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 22,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Fallout New Vegas on Steam?",
+      "document": "Game: Fallout New Vegas\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 150,180\nPositive Reviews: 145,280\nNegative Reviews: 4,900\nPositive Percentage: 96.7%\nPositive to Negative Ratio: 29.65\n\nPlayer Reviews:\nReview 1 (Recommended): +\nReview 2 (Recommended): The best fallout game in the entire franchise\nReview 3 (Recommended): I was worried this game wouldn't work on the steam deck. I was wrong. This game feels right at home here. This is the best way to experience the best Fallout imo. Wish mods worked on the deck though.\nReview 4 (Not Recommended): Fallout: NV takes the series back to its roots a bit, but the bad combat and lack of polish still mar the experience. Despite the amazing depth of a lot of the characters, the writing never clicked with me. Maybe for me a combination of the character models, the lip-sync, the voice acting, and the m\nReview 5 (Recommended): good shit",
+      "existing_answer": "29.65",
+      "split": "test"
+    }
+  },
+  {
+    "id": 23,
+    "data": {
+      "question": "Is Fallout 4 a multiplayer or single-player game?",
+      "document": "Game: Fallout 4\nSteam Review Score: Very Positive\nTotal Reviews: 195,196\nPositive Reviews: 159,432\nNegative Reviews: 35,764\nPositive Percentage: 81.7%\nPositive to Negative Ratio: 4.46\n\nPlayer Reviews:\nReview 1 (Recommended): I find myself returning to Fallout 4 again and again, creating a new play-through every few months or so just to re-experience the the satisfaction of building and populating thriving settlements (yes, I know that not everyone enjoys this aspect of the game, but I most certainly do) and spending tim\nReview 2 (Recommended): \nReview 3 (Recommended): I'll keep it quick - best Fallout game ever made. It's been a while since I played, but I really can't remember any complaints.\nReview 4 (Not Recommended): Fallout 4 is a game that I did not enjoy playing, and I think you will not either. It is a game that fails to deliver on its promises of a rich and immersive open-world experience. The game has a monotonous and uninspired gameplay, which lets you experience the same things over and over again. It i\nReview 5 (Recommended): The last good game by beathesda. I wish I actually knew the hours I've put into this game. Its at least 10 times more than what's listed. Na, probably more like 20x more.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 24,
+    "data": {
+      "question": "How do players describe the gameplay experience of RimWorld?",
+      "document": "Game: RimWorld\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 106,586\nPositive Reviews: 104,665\nNegative Reviews: 1,921\nPositive Percentage: 98.2%\nPositive to Negative Ratio: 54.48\n\nPlayer Reviews:\nReview 1 (Recommended): .\nReview 2 (Recommended): this game is my life now.\nReview 3 (Recommended): a relatively small-medium knowledge gap is the only barrier to playing the best colony sim sandbox game to date. theres something for anyone whose into simulation or management games and looking for one that will light a fire under your ass when it needs to - or let you just chill out and base build\nReview 4 (Recommended): Great game, even better with mods. It's a fun colony building sandbox game with a 'choose your own stakes' sort of survival, where you can either have it be easy-going or hard hitting, all depending on your play style preference.\nReview 5 (Recommended): You can play it like the sims or murder death simulator",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 25,
+    "data": {
+      "question": "What genre is Dead Space?",
+      "document": "Game: Dead Space\nSteam Review Score: Very Positive\nTotal Reviews: 18,914\nPositive Reviews: 17,178\nNegative Reviews: 1,736\nPositive Percentage: 90.8%\nPositive to Negative Ratio: 9.9\n\nPlayer Reviews:\nReview 1 (Recommended): This remaster is the version I wish I had played when it came out. I love that it follows the same flow that the first one did, while also altering the mechanics just enough to keep it from being overly tedious. It will still be a little tedious, however. It's nice being able to actually use my suit\nReview 2 (Recommended): LOVIN IT .. !!\nReview 3 (Recommended): Your mother will hate it\nReview 4 (Recommended): might be a shameless remake but at least it's a fun shameless remake that brings an older game to a new audience\nReview 5 (Not Recommended): The original Dead Space is one of my favorite games of all time and I was very happy with this remake until chapter 9 where the game pulls a fast one and killed me out of nowhere, costing me an hour of progress because it decided not to autosave at any point and failing my No Death run. At that poi",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 26,
+    "data": {
+      "question": "What is the overall review score category for Tom Clancys The Division 2 on Steam?",
+      "document": "Game: Tom Clancys The Division 2\nSteam Review Score: Mixed\nTotal Reviews: 6,390\nPositive Reviews: 4,363\nNegative Reviews: 2,027\nPositive Percentage: 68.3%\nPositive to Negative Ratio: 2.15\n\nPlayer Reviews:\nReview 1 (Recommended): run around, shoot everything.\nReview 2 (Not Recommended): this game spends most of the time crashing and errors when loading\nReview 3 (Recommended): Fun game, I played all the way through the base game before hopping into the DLC. After finishing the DLC, it's like a whole new world of content. There's so much to do in this game, and I can see myself revisiting it again after my current obsession wears off.\nReview 4 (Recommended): The story is derivative, the mechanics are simple. Nothing stand out, just a good point and shoot game with some unique mechanics that require absolutely no thought to employ. Played for 10hrs before dying once. if you're looking for a mindless distraction, with a thin plot that unfolds in the most \nReview 5 (Not Recommended): Takes way to long to launch the game. So many Ubisoft processes running in the background. Then after 10 minutes of waiting, the game is unplayable because the servers are down for maintenance.",
+      "existing_answer": "Mixed",
+      "split": "test"
+    }
+  },
+  {
+    "id": 27,
+    "data": {
+      "question": "How many total Steam reviews does Gorilla Tag have?",
+      "document": "Game: Gorilla Tag\nSteam Review Score: Very Positive\nTotal Reviews: 36,426\nPositive Reviews: 32,965\nNegative Reviews: 3,461\nPositive Percentage: 90.5%\nPositive to Negative Ratio: 9.52\n\nPlayer Reviews:\nReview 1 (Recommended): Monke\nReview 2 (Recommended): play tag meet creators choose from 6 maps! choose gameode infection paintbrawl Hunt and Casual learn your skills running wall climbing wall running branching swiming and more & have a great time!!!!\nReview 3 (Recommended): monkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonkemonke\nReview 4 (Recommended): monke\nReview 5 (Recommended): beat game ever",
+      "existing_answer": "36426",
+      "split": "test"
+    }
+  },
+  {
+    "id": 28,
+    "data": {
+      "question": "Who developed Hogwarts Legacy?",
+      "document": "Game: Hogwarts Legacy\nSteam Review Score: Very Positive\nTotal Reviews: 127,762\nPositive Reviews: 118,812\nNegative Reviews: 8,950\nPositive Percentage: 93.0%\nPositive to Negative Ratio: 13.28\n\nPlayer Reviews:\nReview 1 (Recommended): .\nReview 2 (Recommended): highwing\nReview 3 (Recommended): Fun\nReview 4 (Recommended): 7.0 / 10\nReview 5 (Recommended): If you like quests, this is the type of game for you. I love this game! The scenery is amazing. The storyline is interesting. It is great fun! I highly recommend it.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 29,
+    "data": {
+      "question": "What is the overall review score category for ONE PIECE ODYSSEY on Steam?",
+      "document": "Game: ONE PIECE ODYSSEY\nSteam Review Score: Very Positive\nTotal Reviews: 1,410\nPositive Reviews: 1,178\nNegative Reviews: 232\nPositive Percentage: 83.5%\nPositive to Negative Ratio: 5.08\n\nPlayer Reviews:\nReview 1 (Recommended): [h2] As a huge fan of both Dragon Quest XI and One Piece, this was a real treat for me to play through. [/h2] If you're the same then definitely check out this flawed-but-beautiful game, and if you just like turn-based JRPG's in general i think this is still an enjoyable experience. [u] Story tho\nReview 2 (Recommended): fun game for one piece fans\nReview 3 (Recommended): it good fr fr on god no cap and im not trippin. W skibidi rizz no fanum tax at all.\nReview 4 (Recommended): Solid RPG i'm really surprised.\nReview 5 (Recommended): Really nice game and full of memories",
+      "existing_answer": "Very Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 30,
+    "data": {
+      "question": "Which games in this dataset have a 'Mostly Negative' rating on Steam?",
+      "document": "No document found.",
+      "existing_answer": "Overwatch 2; Call of Duty Warzone; Madden NFL 24; NBA 2K24; Forza Motorsport",
+      "split": "test"
+    }
+  },
+  {
+    "id": 31,
+    "data": {
+      "question": "What genre is Cyberpunk 2077?",
+      "document": "Game: Cyberpunk 2077\nSteam Review Score: Very Positive\nTotal Reviews: 287,118\nPositive Reviews: 241,289\nNegative Reviews: 45,829\nPositive Percentage: 84.0%\nPositive to Negative Ratio: 5.26\n\nPlayer Reviews:\nReview 1 (Recommended): KINO\nReview 2 (Recommended): Love this game\nReview 3 (Recommended): After update 2.0 this game is amazing. This is what Cyberpunk should have been from day 1 a year ago. Oh well better late than never...its definitely one of my favorite games now. Better than GTA in my opinion for sure. Amazing story, visuals and balanced gameplay.\nReview 4 (Recommended): Time slows and katanas kill.\nReview 5 (Recommended): The immersion here is fantastic and the story pulled me in and drug me along til the end. Endless builds to be had and a grimy world unlike many others make this a game easy to recommend.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 32,
+    "data": {
+      "question": "What are the most common complaints players have about Control Ultimate Edition?",
+      "document": "Game: Control Ultimate Edition\nSteam Review Score: Very Positive\nTotal Reviews: 21,561\nPositive Reviews: 19,146\nNegative Reviews: 2,415\nPositive Percentage: 88.8%\nPositive to Negative Ratio: 7.93\n\nPlayer Reviews:\nReview 1 (Recommended): great but should have more memorable boss fights\nReview 2 (Recommended): It's a great action game. Lots of mystery and exploring as well as exciting battles to be fought,\nReview 3 (Not Recommended): Unskippable cutscenes. Unskippable boot-scenes. Unlimited ammo. Weird, janky powers. Weird story. I got this on sale and I'm still mad. Advice for creators: Don't force customers to watch shit more than once. Don't force customers to endure shit more than once. Don't force customers to watch shit \nReview 4 (Recommended): Pros: * Engaging combat with tight mechanics * Abilities are both practical and powerful * Sound, music, art, setting, direction, graphics are all yum * Intriguing lore and immersive tone * Darling was fun * Voice acting and mocap are on point. People feel believable in a strange setting Mid: * Su\nReview 5 (Recommended): good game",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 33,
+    "data": {
+      "question": "What percentage of Steam reviews for Tom Clancys Ghost Recon Breakpoint are positive?",
+      "document": "Game: Tom Clancys Ghost Recon Breakpoint\nSteam Review Score: Mixed\nTotal Reviews: 5,927\nPositive Reviews: 4,133\nNegative Reviews: 1,794\nPositive Percentage: 69.7%\nPositive to Negative Ratio: 2.3\n\nPlayer Reviews:\nReview 1 (Not Recommended): if you like having 2 different os open and bogging down your computer recourse the spend the money on this poor version that will crash at least 1 time every single time you try to play it, ( and no im not on a potato machine ryzen 9 5900x and a rtx 3080ti ) we wont even get into how bad the acting \nReview 2 (Recommended): guf\nReview 3 (Recommended): fun experience, basically reskin of the division but still an enjoyable game\nReview 4 (Recommended): its good\nReview 5 (Not Recommended): very bad game, boring missions",
+      "existing_answer": "69.7%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 34,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Five Nights at Freddys Security Breach on Steam?",
+      "document": "Game: Five Nights at Freddys Security Breach\nSteam Review Score: Very Positive\nTotal Reviews: 34,481\nPositive Reviews: 29,236\nNegative Reviews: 5,245\nPositive Percentage: 84.8%\nPositive to Negative Ratio: 5.57\n\nPlayer Reviews:\nReview 1 (Recommended): e\nReview 2 (Recommended): yes just take my money\nReview 3 (Not Recommended): just overall a bad fnaf game\nReview 4 (Recommended): just yes\nReview 5 (Recommended): Very fun game, not that scary but there's lots of great puzzles",
+      "existing_answer": "5.57",
+      "split": "test"
+    }
+  },
+  {
+    "id": 35,
+    "data": {
+      "question": "How many total Steam reviews does Noita have?",
+      "document": "Game: Noita\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 36,800\nPositive Reviews: 35,193\nNegative Reviews: 1,607\nPositive Percentage: 95.6%\nPositive to Negative Ratio: 21.9\n\nPlayer Reviews:\nReview 1 (Recommended): Casting spells in a sand physics game and passing through increasingly difficult levels, the perfect scenario for chaos.\nReview 2 (Recommended): As a Finnish person, this is like every day life in here. Makes me wanna kms but I like it :)\nReview 3 (Recommended): CBT\nReview 4 (Recommended): When your in your third dimension and some little creature pickup a Nuke wand. 10/10\nReview 5 (Recommended): Cause of death: Explosion. How? When? Why? I threw a bottle of water. Amazing.",
+      "existing_answer": "36800",
+      "split": "test"
+    }
+  },
+  {
+    "id": 36,
+    "data": {
+      "question": "How many positive reviews does DOOM have on Steam?",
+      "document": "Game: DOOM\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 102,120\nPositive Reviews: 97,481\nNegative Reviews: 4,639\nPositive Percentage: 95.5%\nPositive to Negative Ratio: 21.01\n\nPlayer Reviews:\nReview 1 (Recommended): good\nReview 2 (Recommended): fast-paste fps dont get much better than doom and doom eternal\nReview 3 (Recommended): Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. Kill. \nReview 4 (Recommended): You get guns. You shoot guns. You have fists. You throw your firsts. You use your guns and fists to slay demons. This is the only horror game where you're the unstoppable force and the enemies need to survive you. All while playing the most bad-ass soundtrack.\nReview 5 (Recommended): Game is amazing, my PC begs to differ. 9/10",
+      "existing_answer": "97481",
+      "split": "test"
+    }
+  },
+  {
+    "id": 37,
+    "data": {
+      "question": "Is BONEWORKS well-received on Steam?",
+      "document": "Game: BONEWORKS\nSteam Review Score: Very Positive\nTotal Reviews: 29,820\nPositive Reviews: 27,531\nNegative Reviews: 2,289\nPositive Percentage: 92.3%\nPositive to Negative Ratio: 12.03\n\nPlayer Reviews:\nReview 1 (Recommended): these bones, are working baby, working hard or hardly workin !\nReview 2 (Recommended): One of the best, most detailed vr campaigns i've ever played. Granted, flawed in some ways, like clunky climbing, a bit too much of fighting sometimes, story is mostly not self-explanatory. But once you deep dive into the story, explore environments, you truly realize how much time has been put into\nReview 3 (Recommended): I punched the wall a little too hard\nReview 4 (Recommended): bones work\nReview 5 (Recommended): Amazing game. Best VR game I have played, I've also played half life alyx and that might be better, but I think this one is more fun for me. Have not played bonelab yet but I've heard it is worse.",
+      "existing_answer": "Very Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 38,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Amnesia The Bunker on Steam?",
+      "document": "Game: Amnesia The Bunker\nSteam Review Score: Very Positive\nTotal Reviews: 3,446\nPositive Reviews: 3,242\nNegative Reviews: 204\nPositive Percentage: 94.1%\nPositive to Negative Ratio: 15.89\n\nPlayer Reviews:\nReview 1 (Recommended): good game\nReview 2 (Recommended): Compared to the other Amnesia titles, The Bunker is a lot more intense. I expected more torture, esoteric Amnesia lore, a lengthier game and a better ending. In those regards, this might be the weakest Amnesia title. In terms of the combination stalker-horror-puzzle, it is probably their best.\nReview 3 (Recommended): \"It's Bunkerin' time.\" ~Henri Bunker\nReview 4 (Recommended): Solidly spooked. Took all the advice from the last game to heart.\nReview 5 (Recommended): Excellent game from frictional games. Feels more like a penumbra game, but for all the right reasons. Took me about 10 hours to beat once, but it has quite a lot of replayability.",
+      "existing_answer": "15.89",
+      "split": "test"
+    }
+  },
+  {
+    "id": 39,
+    "data": {
+      "question": "What are the most common complaints players have about Marvels Midnight Suns?",
+      "document": "Game: Marvels Midnight Suns\nSteam Review Score: Very Positive\nTotal Reviews: 10,180\nPositive Reviews: 8,347\nNegative Reviews: 1,833\nPositive Percentage: 82.0%\nPositive to Negative Ratio: 4.55\n\nPlayer Reviews:\nReview 1 (Recommended): Looks like Firaxis took out a page of Disney s Marvel book and went with the more is more approach. And, just like the MCU, it feels unnecessarily bloated. Give me the story, cutscenes, and combat - spectacular. Cut everything else. It feels like the amount of dialogue rivals any Bethesda game. \nReview 2 (Recommended): At first I thought the whole card system seemed stupid. But I was wrong I actually enjoyed the extra layer of tactics and prep, now Im sad as it doesnt seem there are alot of games with this set up xD\nReview 3 (Not Recommended): Combat is too basic and boring.\nReview 4 (Recommended): Picked this up in the sales and its a good game to dip and out of it does not feel like 2nd job like live service games.\nReview 5 (Recommended): This was the first time I played a turn based game all the way through. I loved it. Looking forward to more games like it.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 40,
+    "data": {
+      "question": "What are the most common complaints players have about HumanitZ?",
+      "document": "Game: HumanitZ\nSteam Review Score: Mostly Positive\nTotal Reviews: 954\nPositive Reviews: 728\nNegative Reviews: 226\nPositive Percentage: 76.3%\nPositive to Negative Ratio: 3.22\n\nPlayer Reviews:\nReview 1 (Recommended): mildly challenging and fun to play.\nReview 2 (Not Recommended): Spend 4 hours not a single backpack to be found, car has all 4 items, almost in good condition, still breaks down yes so i do not have functioning car at all. Don't recommend it, recommend that developer stop playing his game live and concentrate to fix bugs and dogs that cannot be shot down even at\nReview 3 (Recommended): Great game with high potential. Easy to learn mechanics, which is always good for new players and restarts after some time. I like that you can set and change your server settings on the fly, and therefore create your one difficulty and expirience. Question is there a dev channel to help report bug\nReview 4 (Recommended): loveit\nReview 5 (Recommended): Solid bones, very reminiscent of PZ. Needs more stuff to do involving the other survivors, I think that is a cool aspect.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 41,
+    "data": {
+      "question": "What aspects of Lies of P do reviewers find most enjoyable?",
+      "document": "Game: Lies of P\nSteam Review Score: Very Positive\nTotal Reviews: 11,119\nPositive Reviews: 10,444\nNegative Reviews: 675\nPositive Percentage: 93.9%\nPositive to Negative Ratio: 15.47\n\nPlayer Reviews:\nReview 1 (Recommended): SO GOOD GAME\nReview 2 (Recommended): Finished my first playthrough after clocking in 40 hours, working on every achievement before I definitively say I prefer this to Bloodborne, but as someone who platinumed Bloodborne, I think I prefer the P Sweep. Thank you based Pinocchio\nReview 3 (Recommended): Average day in the life of a 5'4 male\nReview 4 (Recommended): Not much to say, it's a souls like and it does it well\nReview 5 (Recommended): puppet",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 42,
+    "data": {
+      "question": "What aspects of Black Desert do reviewers find most enjoyable?",
+      "document": "Game: Black Desert\nSteam Review Score: Mostly Positive\nTotal Reviews: 43,741\nPositive Reviews: 31,651\nNegative Reviews: 12,090\nPositive Percentage: 72.4%\nPositive to Negative Ratio: 2.62\n\nPlayer Reviews:\nReview 1 (Not Recommended): This game is just not for me..\nReview 2 (Not Recommended): Most of the hours I've spent on Black Desert Online were dedicated to simply trying to understand the game's mechanics (and also character customisation - I'm a sucker for character customisation and will spend hours on end perfecting how my character looks). With that being said, here's a few thing\nReview 3 (Recommended): my favorite fishing game\nReview 4 (Recommended): all so good so nice. but in eary game so very hard\nReview 5 (Recommended): very good nice wow",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 43,
+    "data": {
+      "question": "What are the most common complaints players have about VRChat?",
+      "document": "Game: VRChat\nSteam Review Score: Mixed\nTotal Reviews: 140,428\nPositive Reviews: 97,963\nNegative Reviews: 42,465\nPositive Percentage: 69.8%\nPositive to Negative Ratio: 2.31\n\nPlayer Reviews:\nReview 1 (Recommended): I was racist for almost 2 hours in a cafe and everyone in the cafe all became racist, as well as saying N****r 10/10 would not recommend\nReview 2 (Recommended): tis good\nReview 3 (Not Recommended): Ingame Currency And Monitoring Everything You Do Now, No.\nReview 4 (Recommended): its fun\nReview 5 (Not Recommended): -there's furries everywhere -i keep getting stuck in safe mode...it switches to safe mode the second i close the pause menu and it's really pissing me off, i can't do jack shit when it happends",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 44,
+    "data": {
+      "question": "What genre is Red Dead Redemption 2?",
+      "document": "Game: Red Dead Redemption 2\nSteam Review Score: Very Positive\nTotal Reviews: 171,609\nPositive Reviews: 154,900\nNegative Reviews: 16,709\nPositive Percentage: 90.3%\nPositive to Negative Ratio: 9.27\n\nPlayer Reviews:\nReview 1 (Recommended): Finally, I got to take a bath.\nReview 2 (Recommended): Game is really good, it has good graphics and a long story mode. Map is so large you cant visit every town with a good horse in under 1 hour.\nReview 3 (Recommended): Greatest game ever made!\nReview 4 (Recommended): Now this here is a game, friends! It's Rockstar at their finest. To me it goes straight to the top of the pile, and I'm including GTA V in that. Reality is the reason is simply because I like the story and setting better, and Arthur is one of the best characters I've ever played in any game. In ter\nReview 5 (Recommended): amazing game",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 45,
+    "data": {
+      "question": "What is the overall review score category for Brawlhalla on Steam?",
+      "document": "Game: Brawlhalla\nSteam Review Score: Very Positive\nTotal Reviews: 150,208\nPositive Reviews: 122,430\nNegative Reviews: 27,778\nPositive Percentage: 81.5%\nPositive to Negative Ratio: 4.41\n\nPlayer Reviews:\nReview 1 (Recommended): It is a fun game to play online and with friends.\nReview 2 (Recommended): it fun\nReview 3 (Recommended): dont wanna mess with nintendo prices? play this, lowkey better than what they got\nReview 4 (Recommended): \nReview 5 (Recommended): B",
+      "existing_answer": "Very Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 46,
+    "data": {
+      "question": "Do players recommend BeamNG.drive for new players?",
+      "document": "Game: BeamNG.drive\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 121,412\nPositive Reviews: 118,285\nNegative Reviews: 3,127\nPositive Percentage: 97.4%\nPositive to Negative Ratio: 37.83\n\nPlayer Reviews:\nReview 1 (Recommended): its good fun\nReview 2 (Not Recommended): nghh~\nReview 3 (Recommended): Crash.\nReview 4 (Recommended): ok but better if car sex\nReview 5 (Recommended): car go vroom then boom. also 9/11 was an inside job, the government is lying to your face. WAKE UP PEOPLE AND SEE THE LIGHT BIGFOOT GOD IS REAL AND HE IS COMING. JUDGMENT DAY IS NEAR AND YOU HAVE NOTHING TO SHOW FOR IT. BIGFOOT WILL NOT BE SO MERCIFUL. 8/10 pretty scenery",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 47,
+    "data": {
+      "question": "How many total Steam reviews does SnowRunner have?",
+      "document": "Game: SnowRunner\nSteam Review Score: Very Positive\nTotal Reviews: 11,594\nPositive Reviews: 10,171\nNegative Reviews: 1,423\nPositive Percentage: 87.7%\nPositive to Negative Ratio: 7.15\n\nPlayer Reviews:\nReview 1 (Recommended): it good\nReview 2 (Recommended): Drive truck to place, get stuck in the mud before the destination. Drive other truck over to try and pull out the first truck, flip truck over by accident. Bring third truck to flip the second truck, then take the second truck to try and get the first one unstuck. Accidentally flip the first truck o\nReview 3 (Recommended): fun\nReview 4 (Recommended): i been long on console xbox then move to pc still great game very relax and challenge offroad. after season 11 been change truck speed which i like it more fast pace.\nReview 5 (Recommended): trucks are cool, maps are cool, exploration is cool. some deliveries can be repetitive. I would advise buying the game with at least 1 good friend. If you don't have friends don't buy this unless ur a truck neek.",
+      "existing_answer": "11594",
+      "split": "test"
+    }
+  },
+  {
+    "id": 48,
+    "data": {
+      "question": "What are the top 3 highest-rated games by positive review percentage in the dataset?",
+      "document": "No document found.",
+      "existing_answer": "Sledders; Class of 09 The ReUp; Stardew Valley",
+      "split": "test"
+    }
+  },
+  {
+    "id": 49,
+    "data": {
+      "question": "What is the overall review score category for Starfield on Steam?",
+      "document": "Game: Starfield\nSteam Review Score: Mixed\nTotal Reviews: 84,195\nPositive Reviews: 56,676\nNegative Reviews: 27,519\nPositive Percentage: 67.3%\nPositive to Negative Ratio: 2.06\n\nPlayer Reviews:\nReview 1 (Recommended): 3/5 Good for what it is, really disappointed about the potential of what it could have been.\nReview 2 (Recommended): After 100 hours of play I have only scratched the surface of what the Starfield world promises but every minute so far has been exhilarating. Some bugs (delayed sound from time to time) which do not bother me as everything else is so solidly done.\nReview 3 (Recommended): Fallout 4 in future mode, what a great experience. Yes of course there some things which do extremly remind me on fallout 4 but, for me it's not a problem. As I already player Fallout 4 I also get faster into the way to controll or to understand how to hack and so on, for someone without fallout 4 e\nReview 4 (Recommended): Probably not for everyone, but I've enjoyed it a lot and find it very addicting at the moment.\nReview 5 (Not Recommended): Let me preface this by saying that I genuinely enjoyed playing the game but the more I did the more frustrating it became until I just stopped entirely. Radio silence on anything meaningful through social media, 2 months for a FOV slider, 3 months for dlss and horrid performance on upper end compute",
+      "existing_answer": "Mixed",
+      "split": "test"
+    }
+  },
+  {
+    "id": 50,
+    "data": {
+      "question": "What percentage of Steam reviews for Sons Of The Forest are positive?",
+      "document": "Game: Sons Of The Forest\nSteam Review Score: Very Positive\nTotal Reviews: 81,332\nPositive Reviews: 70,089\nNegative Reviews: 11,243\nPositive Percentage: 86.2%\nPositive to Negative Ratio: 6.23\n\nPlayer Reviews:\nReview 1 (Recommended): man chased me for 4 whole day to die to a shotguns\nReview 2 (Recommended): very good survival game, and its still in its early stages\nReview 3 (Recommended): g0od\nReview 4 (Recommended): Its a really fun game love it\nReview 5 (Recommended): Good!",
+      "existing_answer": "86.2%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 51,
+    "data": {
+      "question": "What do players commonly praise about A Plague Tale Requiem in Steam reviews?",
+      "document": "Game: A Plague Tale Requiem\nSteam Review Score: Very Positive\nTotal Reviews: 5,066\nPositive Reviews: 4,660\nNegative Reviews: 406\nPositive Percentage: 92.0%\nPositive to Negative Ratio: 11.48\n\nPlayer Reviews:\nReview 1 (Recommended): I've got some mixed feelings for this game. First let me say that I absolutely enjoyed this experience, and I would recommend it for sure. That being said lets talk particulars. Requiem fixed some things I definitely had beef with from Innocence. Mainly, that the duration of the story actually mat\nReview 2 (Recommended): I enjoyed the first, so i looked forward to this one as well to wrap up the story. It was a great finish, longer than i expected; which was good. It had so much detail, it perfectly reflected the situation. Definitely worth picking up to finish an amazing story.\nReview 3 (Recommended): Much better than the first game, more interesting mechanics, more interesting characters arcs. Overall a great game. AND TH MUSIC IS FANTASTIC!!!\nReview 4 (Not Recommended): Beautiful story, ABSOLUTELY HORRIBLE gameplay. Typical situation that you're supposed to figure out: -Tell one party member to hold a crank while the other runs to the other side of a door to open it, then shoot a brazier with a flaming crossbow bolt to make a path to protect you from DA RATZ, then\nReview 5 (Recommended): good",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 52,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for theHunter Call of the Wild on Steam?",
+      "document": "Game: theHunter Call of the Wild\nSteam Review Score: Very Positive\nTotal Reviews: 52,110\nPositive Reviews: 46,259\nNegative Reviews: 5,851\nPositive Percentage: 88.8%\nPositive to Negative Ratio: 7.91\n\nPlayer Reviews:\nReview 1 (Recommended): its fun\nReview 2 (Recommended): The game is realistic, the guns are really cool, you can use decoys for ducks or geese that is in the water, and the graphics are good. would recommend this game for players that like to hunt or like to shoot guns. The game is basically based off real life hunting but it is in a game.\nReview 3 (Recommended): Its no doubt the best hunting game ive ever played and they make new features frequently. Its also very realistic\nReview 4 (Recommended): hehehehehe i lowered the population of wolves and bison im pretty sure, i maybe killed a few :)\nReview 5 (Recommended): Lovely and wonderful scenery as well as amazing game-play that makes the whole experience unique.",
+      "existing_answer": "7.91",
+      "split": "test"
+    }
+  },
+  {
+    "id": 53,
+    "data": {
+      "question": "Do players recommend Trepang2 for new players?",
+      "document": "Game: Trepang2\nSteam Review Score: Very Positive\nTotal Reviews: 4,379\nPositive Reviews: 4,149\nNegative Reviews: 230\nPositive Percentage: 94.7%\nPositive to Negative Ratio: 18.04\n\nPlayer Reviews:\nReview 1 (Recommended): I am inspired by this game to commit questionable acts\nReview 2 (Recommended): Easily the best FPS game I've played in the past year. Fast paced, violent fun.\nReview 3 (Recommended): there is two moods in the game: mood 1: i am death, destroyer of worlds mood 2: maybe i should slow down a bit mood 1 is predominant\nReview 4 (Recommended): Remember the lobby scene in the first Matrix movie? Well this is basically it. Adrenaline fueled close quarters shooting with bullet time and tons of speedy chaos.\nReview 5 (Recommended): Great game, fast paced and fun gun play. Bullet time is really good too mixing melee with jumping and shooting for some hilarious kills. Pure shoot em up where you need fast reflexes and a strong heart!",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 54,
+    "data": {
+      "question": "How do players describe the gameplay experience of Warm Snow?",
+      "document": "Game: Warm Snow\nSteam Review Score: Very Positive\nTotal Reviews: 1,029\nPositive Reviews: 972\nNegative Reviews: 57\nPositive Percentage: 94.5%\nPositive to Negative Ratio: 17.05\n\nPlayer Reviews:\nReview 1 (Recommended): Fun hack and slash game.\nReview 2 (Recommended): China en el 2077\nReview 3 (Recommended): Insanely fun.Who need games like D4 when this is much better\nReview 4 (Recommended): Solid rogue-lite for those who like fast action like Hades, and also likes Wuxia estethics.\nReview 5 (Recommended): One of the best Roguelike games. Close to Hades but with simpler character development. Highly recommended.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 55,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Marvels Midnight Suns on Steam?",
+      "document": "Game: Marvels Midnight Suns\nSteam Review Score: Very Positive\nTotal Reviews: 10,180\nPositive Reviews: 8,347\nNegative Reviews: 1,833\nPositive Percentage: 82.0%\nPositive to Negative Ratio: 4.55\n\nPlayer Reviews:\nReview 1 (Recommended): Looks like Firaxis took out a page of Disney s Marvel book and went with the more is more approach. And, just like the MCU, it feels unnecessarily bloated. Give me the story, cutscenes, and combat - spectacular. Cut everything else. It feels like the amount of dialogue rivals any Bethesda game. \nReview 2 (Recommended): At first I thought the whole card system seemed stupid. But I was wrong I actually enjoyed the extra layer of tactics and prep, now Im sad as it doesnt seem there are alot of games with this set up xD\nReview 3 (Not Recommended): Combat is too basic and boring.\nReview 4 (Recommended): Picked this up in the sales and its a good game to dip and out of it does not feel like 2nd job like live service games.\nReview 5 (Recommended): This was the first time I played a turn based game all the way through. I loved it. Looking forward to more games like it.",
+      "existing_answer": "4.55",
+      "split": "test"
+    }
+  },
+  {
+    "id": 56,
+    "data": {
+      "question": "How do players describe the gameplay experience of Warhammer Age of Sigmar Realms of Ruin?",
+      "document": "Game: Warhammer Age of Sigmar Realms of Ruin\nSteam Review Score: Mixed\nTotal Reviews: 685\nPositive Reviews: 465\nNegative Reviews: 220\nPositive Percentage: 67.9%\nPositive to Negative Ratio: 2.11\n\nPlayer Reviews:\nReview 1 (Recommended): I thoroughly love this game. Don't go in thinking this is your normal RTS, it isn't. Don't go in expecting Warhammer fantasy or complaining about Warhammer fantasy, because it isn't, this is Age of Sigmar. This is a fun Dawn of War 2-esque game with a lot of depth and a lot of fun to be had! The cam\nReview 2 (Not Recommended): It hasn't even been a month and they already announced DLCs. Good thing I didn't play for over 2 hours. This is an easy refund, chief.\nReview 3 (Not Recommended): The character models look lovely and the game looks good, but the gameplay is shallow. having only played the campaign till I got bored. it is rock paper scissors with a few squads. there is no base building, and the maps are just simple corridors. in terms of being an RTS this was not what I expect\nReview 4 (Not Recommended): Gifted by a friend so makes me sad to admit that this game is essentially a mobile calibre RTS. I'm a warhammer fanboy to the extreme and I just can't behind this. It's clearly made bare bones to be a DLC farm. I hope people don't invest in the add-ons so we can finally start getting finished Warham\nReview 5 (Not Recommended): i cannot recomend it. A weak warhammer game.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 57,
+    "data": {
+      "question": "How many positive reviews does Cuphead have on Steam?",
+      "document": "Game: Cuphead\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 57,450\nPositive Reviews: 55,224\nNegative Reviews: 2,226\nPositive Percentage: 96.1%\nPositive to Negative Ratio: 24.81\n\nPlayer Reviews:\nReview 1 (Recommended): its good\nReview 2 (Recommended): hard af but fun\nReview 3 (Recommended): One of the Greatest Indie Games ever created. Also one of the greatest Platformers ever released in the history of gaming. One of the greatest creative art styles. And some of the best bosses in gaming. The mechanics and platforming are top notch. The Games a 10/10. The mistakes you make are literal\nReview 4 (Recommended): S\nReview 5 (Recommended): It's 2023 and Cuphead it's still a masterpiece. The bosses, the extense soundtrack, the appearance of 1830' and the difficulty makes this game remarkable. The difficulty for begginers it's: High, but once you practice enough, every boss will take you less effort. Once you finish it, you feel satisfi",
+      "existing_answer": "55224",
+      "split": "test"
+    }
+  },
+  {
+    "id": 58,
+    "data": {
+      "question": "What is the overall review score category for Warhammer 40000 Gladius Relics of War on Steam?",
+      "document": "Game: Warhammer 40000 Gladius Relics of War\nSteam Review Score: Mostly Positive\nTotal Reviews: 6,128\nPositive Reviews: 4,878\nNegative Reviews: 1,250\nPositive Percentage: 79.6%\nPositive to Negative Ratio: 3.9\n\nPlayer Reviews:\nReview 1 (Recommended): great game. easy to loose track of time, it's that good\nReview 2 (Recommended): Warhammer 40k Gladius is a fun take on the 4x genre. It really simplifies a lot of things, in favor of huge battles and visercal combat. And in that sense, they've done a great job. It's a lot of fun watching the tide of battle turn, throwing waves of soldiers at your enemy, whipping out a Leman Ru\nReview 3 (Recommended): It is definitely worth 4$ when on sale. Standard 4x game with most of the emphasis on combat with a nice coat of 40k paint. If you don't buy it I will assume you are a heretic.FOR THE EMPEROR, and sometimes Slaanesh...BUT MOSTLY FOR THE EMPEROR.\nReview 4 (Recommended): waaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH\nReview 5 (Recommended): FOR THE EMPEROR",
+      "existing_answer": "Mostly Positive",
+      "split": "test"
+    }
+  },
+  {
+    "id": 59,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Disgaea 7 Vows of the Virtueless on Steam?",
+      "document": "Game: Disgaea 7 Vows of the Virtueless\nSteam Review Score: Very Positive\nTotal Reviews: 417\nPositive Reviews: 369\nNegative Reviews: 48\nPositive Percentage: 88.5%\nPositive to Negative Ratio: 7.69\n\nPlayer Reviews:\nReview 1 (Not Recommended): tbh, this game isnt worth 79.99 (cad ) or really any price thats above $35. there's a lot to get into so ill break it down [h1] Disgaea 7 is a game thats missing the heart and soul of what makes disgaea , disgaea [/h1] i know its crazy to start off with this but this game doesnt feel as fun as pre\nReview 2 (Recommended): .\nReview 3 (Recommended): The story is ok, not their best. The gameplay is a Disgaea game, without the ridiculous autoplay of 6. All-in-all decent. I like the way they are going with the character sprites. More 3D in your face\nReview 4 (Recommended): A lot better than 6. Still worse than 1, 4 & 5\nReview 5 (Recommended): excelent game!",
+      "existing_answer": "7.69",
+      "split": "test"
+    }
+  },
+  {
+    "id": 60,
+    "data": {
+      "question": "What aspects of High On Life do reviewers find most enjoyable?",
+      "document": "Game: High On Life\nSteam Review Score: Very Positive\nTotal Reviews: 9,726\nPositive Reviews: 8,649\nNegative Reviews: 1,077\nPositive Percentage: 88.9%\nPositive to Negative Ratio: 8.03\n\nPlayer Reviews:\nReview 1 (Not Recommended): Mid game\nReview 2 (Recommended): Love the humour, amazing game and fun story\nReview 3 (Recommended): ati\nReview 4 (Recommended): I like this game!\nReview 5 (Recommended): Isn't this the alien season of Fortnite?",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 61,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for Remnant From the Ashes on Steam?",
+      "document": "Game: Remnant From the Ashes\nSteam Review Score: Very Positive\nTotal Reviews: 26,101\nPositive Reviews: 22,633\nNegative Reviews: 3,468\nPositive Percentage: 86.7%\nPositive to Negative Ratio: 6.53\n\nPlayer Reviews:\nReview 1 (Recommended): Remnant 1 is one of the few 'souls-like' titles that I've hopped on to play for minutes, just to check the time and realize that hours had passed by instead. My initial expectations have been met, although there is only one complaint that i have on the surface of the game design. And its boss fights\nReview 2 (Recommended): Seems very simplistic but can get difficult because of how 'made of glass' your character is. It's just a good time waster game with almost no story to uncover. My biggest issue is your character constantly feels like they're walking through knee high water which is insanely annoying. I do recommend\nReview 3 (Recommended): if you search goo coop game with potato requirements like ASO, you must buy it\nReview 4 (Not Recommended): After getting cucked in the second game I need the catharsis of leaving a negative review on this one too\nReview 5 (Recommended): Remnant: From the Ashes was a surprise for me and my friends, we started playing it because it looked fun, and it was a perfect excuse to play something together at night meanwhile we talk about our day, but we ended up finding a great game with memorable bosses, excellent enemies designs, incredibl",
+      "existing_answer": "6.53",
+      "split": "test"
+    }
+  },
+  {
+    "id": 62,
+    "data": {
+      "question": "Do players recommend Grounded for new players?",
+      "document": "Game: Grounded\nSteam Review Score: Very Positive\nTotal Reviews: 35,859\nPositive Reviews: 32,554\nNegative Reviews: 3,305\nPositive Percentage: 90.8%\nPositive to Negative Ratio: 9.85\n\nPlayer Reviews:\nReview 1 (Recommended): r\nReview 2 (Recommended): Cool antz n stuff\nReview 3 (Recommended): I didn't know how bad my arachnophobia was until I played this. Stay away from the oak tree at night.\nReview 4 (Recommended): Good survival game similar to Raft. If you liked that one, you will probably like this one as well. The graphics are good, sound is ok and there is a story, although it is slow to unravel - just like in Raft. The bad part is that there are only 4 players to choose from and no customization (raft h\nReview 5 (Recommended): This game is very grindy. I didn t realize it was a crafting based game so if you don t like that, this isn t the game for you. It can be quite tedious but it also means there s almost always something to do which is nice. The enemies take some practiced strategy to defeat, each one has its own st",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 63,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for DRAGON BALL FighterZ on Steam?",
+      "document": "Game: DRAGON BALL FighterZ\nSteam Review Score: Very Positive\nTotal Reviews: 31,443\nPositive Reviews: 28,558\nNegative Reviews: 2,885\nPositive Percentage: 90.8%\nPositive to Negative Ratio: 9.9\n\nPlayer Reviews:\nReview 1 (Recommended): if you enjoy being corner spammed and ripping your hair out this is the game for you.\nReview 2 (Not Recommended): joystick inputs are gay\nReview 3 (Recommended): game is meh, but good animations.\nReview 4 (Recommended): I was never really a fan of fighting games before I played this, but being the Dragon Ball fan I am, I just had to try it. Honestly, it is worth picking up even if you don't like either things. It's easy to learn but hard to master, has amazing references and mechanics, and overall looks amazing. Y\nReview 5 (Recommended): Cool game",
+      "existing_answer": "9.9",
+      "split": "test"
+    }
+  },
+  {
+    "id": 64,
+    "data": {
+      "question": "What aspects of DiRT Rally 20 do reviewers find most enjoyable?",
+      "document": "Game: DiRT Rally 20\nSteam Review Score: Very Positive\nTotal Reviews: 17,585\nPositive Reviews: 15,308\nNegative Reviews: 2,277\nPositive Percentage: 87.1%\nPositive to Negative Ratio: 6.72\n\nPlayer Reviews:\nReview 1 (Not Recommended): A game oriented for pro players. A moderate player cant enjoy the game, propably will break the PC.\nReview 2 (Recommended): very gud\nReview 3 (Recommended): Best Rally game\nReview 4 (Recommended): as KonMari would say: This game brings me joy. go fast, hit trees, repeat. A+\nReview 5 (Recommended): its good",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 65,
+    "data": {
+      "question": "What is the game with the most total reviews in this dataset?",
+      "document": "No document found.",
+      "existing_answer": "Counter-Strike 2",
+      "split": "test"
+    }
+  },
+  {
+    "id": 66,
+    "data": {
+      "question": "How do players describe the gameplay experience of Conquerors Blade?",
+      "document": "Game: Conquerors Blade\nSteam Review Score: Mostly Positive\nTotal Reviews: 12,832\nPositive Reviews: 9,146\nNegative Reviews: 3,686\nPositive Percentage: 71.3%\nPositive to Negative Ratio: 2.48\n\nPlayer Reviews:\nReview 1 (Recommended): very good\nReview 2 (Recommended): I love this game for what it is honestly. It has its bugs and balancing issues at times like any game that's constantly updating but I can't say I've ever not enjoyed the game.\nReview 3 (Not Recommended): The game is garbage, the servers have been totally broken for months and they are not able to fix them and to top it off the loot boxes are a scam, it is 1000% sure that you will never get any legendary skin and support is too arrogant ignoring you with all the bugs What's in the game is unplayable,\nReview 4 (Not Recommended): LAGGGGGGGGGGGGGG\nReview 5 (Not Recommended): Great ideas, poor execution & Greed.",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 67,
+    "data": {
+      "question": "Which games in this dataset have more than 1 million total reviews on Steam?",
+      "document": "No document found.",
+      "existing_answer": "Counter-Strike 2",
+      "split": "test"
+    }
+  },
+  {
+    "id": 68,
+    "data": {
+      "question": "What percentage of Steam reviews for Aliens Fireteam Elite are positive?",
+      "document": "Game: Aliens Fireteam Elite\nSteam Review Score: Very Positive\nTotal Reviews: 14,008\nPositive Reviews: 11,435\nNegative Reviews: 2,573\nPositive Percentage: 81.6%\nPositive to Negative Ratio: 4.44\n\nPlayer Reviews:\nReview 1 (Recommended): I bought this game when it came out on PS4 before dusting the damn thing off to play this. It sucked, triggers didn't work at certain doors over and over again forcing you to repeat levels all the way up to a point i'd break again and again, the ai wasn't even able to hold their own on normal. I hat\nReview 2 (Recommended): dlc is a little light would like to see more\nReview 3 (Recommended): Awesome game\nReview 4 (Recommended): This game is great but I really wish i was 4 player co-op\nReview 5 (Not Recommended): ERROR ping-error fps-error gameplay-error",
+      "existing_answer": "81.6%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 69,
+    "data": {
+      "question": "What aspects of Keep Talking and Nobody Explodes do reviewers find most enjoyable?",
+      "document": "Game: Keep Talking and Nobody Explodes\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 7,948\nPositive Reviews: 7,824\nNegative Reviews: 124\nPositive Percentage: 98.4%\nPositive to Negative Ratio: 63.1\n\nPlayer Reviews:\nReview 1 (Recommended): \nReview 2 (Recommended): i exploded :( (they didnt keep talking)\nReview 3 (Recommended): KEEP; KEEP TALKING! \nReview 4 (Recommended): What's the display? Nothing Like it says nothing? No, its nothing Like it's blank? No, it doesn't say blank But is it blank? Yes, it's nothing The display is nothing? Yes the display is nothing Okay, click the bottom right button Explosion\nReview 5 (Recommended): Morse code bad",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 70,
+    "data": {
+      "question": "What do players commonly praise about Dungeon Alchemist in Steam reviews?",
+      "document": "Game: Dungeon Alchemist\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 1,764\nPositive Reviews: 1,684\nNegative Reviews: 80\nPositive Percentage: 95.5%\nPositive to Negative Ratio: 21.05\n\nPlayer Reviews:\nReview 1 (Recommended): An incredible tool. It has saved me hours of work! It is a shame it cannot be used as a VTT, but at least you can export it with video files. Would be nice to have an isometric cam off the bat, I do hope to see that implemented :) Great job!\nReview 2 (Recommended): I run D&D sessions with a group of people and this has been an amazing tool for me to use, my players seem to enjoy it too. Especially the first person view feature it brings a whole new way for them to play instead of the hand drawn maps I used to use. So if you wanna run a table top game or just b\nReview 3 (Recommended): My players purchased this for me as a gift, and it has changed our whole play. They love the detail of the maps, and how quick it is to generate a easy, temp map you might need.\nReview 4 (Recommended): Great at building maps. Definitely needs more \"tokens\" or monsters.\nReview 5 (Not Recommended): i was workig on a map for like an hour and the i didn't know how to save and deleted all my progress>:(",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 71,
+    "data": {
+      "question": "What do players commonly praise about Overwatch 2 in Steam reviews?",
+      "document": "Game: Overwatch 2\nSteam Review Score: Mostly Negative\nTotal Reviews: 62,728\nPositive Reviews: 14,379\nNegative Reviews: 48,349\nPositive Percentage: 22.9%\nPositive to Negative Ratio: 0.3\n\nPlayer Reviews:\nReview 1 (Not Recommended): poop\nReview 2 (Recommended): i hate this game (I'm addicted)\nReview 3 (Recommended): it's a game\nReview 4 (Not Recommended): worst servers sh*tty services\nReview 5 (Not Recommended): shit matchmaking",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 72,
+    "data": {
+      "question": "What is the ratio of positive to negative reviews for iRacing on Steam?",
+      "document": "Game: iRacing\nSteam Review Score: Very Positive\nTotal Reviews: 2,068\nPositive Reviews: 1,760\nNegative Reviews: 308\nPositive Percentage: 85.1%\nPositive to Negative Ratio: 5.71\n\nPlayer Reviews:\nReview 1 (Recommended): I don't think I've ever seen a worse set of T1 crashes in any other series compared to the MX-5 Cup\nReview 2 (Recommended): wouldnt you know it, cars go vroom, once again what more could you want besides a cheaper pricing model\nReview 3 (Recommended): Most realistic racing simulator that I've ever played.\nReview 4 (Recommended): best racing simulation game\nReview 5 (Recommended):",
+      "existing_answer": "5.71",
+      "split": "test"
+    }
+  },
+  {
+    "id": 73,
+    "data": {
+      "question": "Is No Mans Sky a multiplayer or single-player game?",
+      "document": "Game: No Mans Sky\nSteam Review Score: Mostly Positive\nTotal Reviews: 170,874\nPositive Reviews: 132,848\nNegative Reviews: 38,026\nPositive Percentage: 77.7%\nPositive to Negative Ratio: 3.49\n\nPlayer Reviews:\nReview 1 (Recommended): Really fun exploration game if you don't mind some resource gathering. I started playing this in 2016 and still fire it up every now and again.\nReview 2 (Recommended): \nReview 3 (Recommended): The best space game ever - 2024 december\nReview 4 (Recommended): Way better than Starfield, and without all the woke shit.\nReview 5 (Recommended): ---{ Graphics }--- You forget what reality is Beautiful Good Decent Bad Don t look too long at it MS-DOS ---{ Gameplay }--- Very good Good It's just gameplay Mehh Watch paint dry instead Just don't ---{ Audio }--- Eargasm Very good Good Not too bad Bad I'm now",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 74,
+    "data": {
+      "question": "What percentage of Steam reviews for The Jackbox Party Pack 3 are positive?",
+      "document": "Game: The Jackbox Party Pack 3\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 4,742\nPositive Reviews: 4,613\nNegative Reviews: 129\nPositive Percentage: 97.3%\nPositive to Negative Ratio: 35.76\n\nPlayer Reviews:\nReview 1 (Recommended): WE LOVE THESE GAMES. MY ONLY COMPLAINT IS THAT I REALLY WISH THE QUESTIONS WHERE MORE RELEVANT.\nReview 2 (Recommended): This is definitely the best and most fun Package among the others. All of the games, Trivia Murder, Quiplash 2, Tee-KO, Guesspionage and Fakin It are all really fun games, making it looking like it's 'a pack of party games', and not just a pack with five games inside that you'll play just one or ano\nReview 3 (Recommended): I bought this for $20 a few years ago and now I have over 60 hours of playing with family and friends. That makes it around $0.33/hr which I think is totally worth it. There are games for everyone so if you have someone who likes dirty jokes, maybe play quiplash. Someone likes trivia? Trivia Murder \nReview 4 (Recommended): This pack is so much fun! All of the games that are on it are awesome and so entertaining! For sure a game that I will share with my friends at parties!\nReview 5 (Recommended): very funny",
+      "existing_answer": "97.3%",
+      "split": "test"
+    }
+  },
+  {
+    "id": 75,
+    "data": {
+      "question": "What aspects of STAR WARS Jedi Survivor do reviewers find most enjoyable?",
+      "document": "Game: STAR WARS Jedi Survivor\nSteam Review Score: Mixed\nTotal Reviews: 29,928\nPositive Reviews: 19,402\nNegative Reviews: 10,526\nPositive Percentage: 64.8%\nPositive to Negative Ratio: 1.84\n\nPlayer Reviews:\nReview 1 (Not Recommended): idk is it fixed yet?\nReview 2 (Not Recommended): crashes constantly. very boring story. cool map. 150 gb. not worth\nReview 3 (Recommended): After waiting months due to the talk of how bad performance was I finally have played and completed Jedi Survivor. I gotta say I freaking loved it. Especially going in right after replaying the first. The world is huge, like I was genuinely surprised with the scale of everything. This game is litera\nReview 4 (Recommended): If you liked Jedi fallen order, you will love this game :D bought it a few weeks ago an only had a few frame drops here an there, with no crashes.\nReview 5 (Recommended): Good game, good story, good time",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 76,
+    "data": {
+      "question": "What are the most common complaints players have about Dying Light?",
+      "document": "Game: Dying Light\nSteam Review Score: Very Positive\nTotal Reviews: 107,162\nPositive Reviews: 101,095\nNegative Reviews: 6,067\nPositive Percentage: 94.3%\nPositive to Negative Ratio: 16.66\n\nPlayer Reviews:\nReview 1 (Recommended): Awesome game! 10/10\nReview 2 (Recommended): add sex\nReview 3 (Recommended): better than dying light 2\nReview 4 (Recommended): boing boing punch punch 10/10\nReview 5 (Recommended): zombies :D",
+      "existing_answer": "",
+      "split": "test"
+    }
+  },
+  {
+    "id": 77,
+    "data": {
+      "question": "Is Hollow Knight a multiplayer or single-player game?",
+      "document": "Game: Hollow Knight\nSteam Review Score: Overwhelmingly Positive\nTotal Reviews: 120,453\nPositive Reviews: 116,963\nNegative Reviews: 3,490\nPositive Percentage: 97.1%\nPositive to Negative Ratio: 33.51\n\nPlayer Reviews:\nReview 1 (Recommended): bangin' game\nReview 2 (Recommended): yes. But frick royal waterways.\nReview 3 (Recommended): need bug job rn\nReview 4 (Recommended): Actually a perfect game in every way\nReview 5 (Recommended): zollow",
+      "existing_answer": "",
+      "split": "test"
+    }
+  }
+]
