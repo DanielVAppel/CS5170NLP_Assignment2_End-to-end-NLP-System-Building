@@ -8,7 +8,8 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-
+#Run file with: python -X utf8 your_script.py if you encounter issues with encoding (file 385 was the issue child for me that kept crashing it)
+#install numpy version 1.26.4 to avoid error with numpy.dtype size change (says that numpy verison 2.0> would work overall)
 load_dotenv()
 
 # Config
@@ -204,10 +205,7 @@ if __name__ == "__main__":
     agent = build_agent(vector_store, OPENAI_API_KEY)
     
     demo_questions = [
-        "What do players most commonly praise about this game?",
-        "What are the main complaints or criticisms in negative reviews?",
-        "How do early access reviews compare to reviews written after full release?",
-        "Are there any recurring mentions of bugs or performance issues?",
+        "What is the overall review score category for Outpath on Steam?",
     ]
     
     for q in demo_questions: #demo_questions
