@@ -6,7 +6,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Callable, Literal
 
-DATA_ROOT = Path("data")          # root that contains test/ and training/
+DATA_ROOT = Path("Anotated_Game_Reviews_Data/data")       # root that contains test/ and train/
 SIMILARITY_THRESHOLD = 0.0        # reserved for fuzzy matching
 
 
@@ -75,7 +75,7 @@ class EvalReport:
             sections.append(block)
         return "\n".join(sections)
 
-def _split_dir(split: Literal["test", "training"]) -> Path:
+def _split_dir(split: Literal["test", "train"]) -> Path:
     p = DATA_ROOT / split
     if not p.is_dir():
         raise FileNotFoundError(
@@ -97,7 +97,7 @@ def _load_label_studio(path: Path) -> dict[int, dict]:
     return {item["id"]: item for item in items}
 
 
-def _load_samples(split: Literal["test", "training"]) -> list[EvalSample]:
+def _load_samples(split: Literal["test", "train"]) -> list[EvalSample]:
     """Load questions + reference answers (basic mode)."""
     d = _split_dir(split)
     questions = _load_lines(d / "questions.txt")
@@ -117,7 +117,7 @@ def _load_samples(split: Literal["test", "training"]) -> list[EvalSample]:
 
 def annotation_add(
     samples: list[EvalSample],
-    split: Literal["test", "training"],
+    split: Literal["test", "train"],
 ) -> list[EvalSample]:
     """Attach Label Studio annotation data to each sample (in-place)."""
     d = _split_dir(split)
@@ -224,7 +224,7 @@ def _run_evaluation(
 
 def evaluate_basic(
     query_fn: Callable[[str], str],
-    split: Literal["test", "training"] = "test",
+    split: Literal["test", "train"] = "test",
     verbose: bool = True,
 ) -> EvalReport:
     """
@@ -239,7 +239,7 @@ def evaluate_basic(
             def query_fn(q: str) -> str:
                 return qa_chain.invoke({"query": q})["result"]
 
-    split : "test" | "training"
+    split : "test" | "train"
         Which data split directory to read from.
     verbose : bool
         Print per-sample results and the summary.
@@ -268,7 +268,7 @@ def evaluate_basic(
 
 def evaluate_annotated(
     query_fn: Callable[[str], str],
-    split: Literal["test", "training"] = "test",
+    split: Literal["test", "train"] = "test",
     verbose: bool = True,
 ) -> EvalReport:
     print(f"\n[evaluate_annotated] Loading '{split}' split …")
@@ -292,7 +292,7 @@ def evaluate_annotated(
 
 def compare_modes(
     query_fn: Callable[[str], str],
-    split: Literal["test", "training"] = "test",
+    split: Literal["test", "train"] = "test",
 ) -> tuple[EvalReport, EvalReport]:
 
     basic = evaluate_basic(query_fn, split, verbose=False)

@@ -1,7 +1,7 @@
 """
 Usage:
     python run_evaluation.py                        # basic eval on test split
-    python run_evaluation.py --split training       # basic eval on training split
+    python run_evaluation.py --split train          # basic eval on train split
     python run_evaluation.py --mode annotated       # annotated eval
     python run_evaluation.py --mode compare         # side-by-side comparison
     python run_evaluation.py --verbose              # print per-sample detail
@@ -20,7 +20,7 @@ load_dotenv()
 def main():
     parser = argparse.ArgumentParser(description="Run RAG evaluation")
     parser.add_argument(
-        "--split", choices=["test", "training"], default="test",
+        "--split", choices=["test", "train"], default="test",
         help="Which data split to evaluate (default: test)"
     )
     parser.add_argument(

@@ -1,1 +1,37 @@
+# Environment variables / API keys
 .env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# FAISS generated index files
+faiss_index/
+
+# General generated outputs
+outputs/
+results/
+evaluation_results/
+metrics/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak

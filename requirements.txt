@@ -1,0 +1,10 @@
+pandas
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-text-splitters
+faiss-cpu
+openpyxl
+numpy==1.26.4
