@@ -21,7 +21,6 @@ faiss_index/
 # General generated outputs
 outputs/
 results/
-evaluation_results/
 metrics/
 *.log
 

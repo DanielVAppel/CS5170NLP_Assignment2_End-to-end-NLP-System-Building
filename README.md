@@ -188,31 +188,7 @@ Inside `.env`, add this line:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
-
-Example:
-
-```env
-OPENAI_API_KEY=sk-your-key-goes-here
-```
-
-Do not upload this `.env` file to GitHub because it contains your private API key.
-
-## 5. Confirm the Data Folder Paths
-
-Your review data should be here:
-
-```text
-Game_Reviews_Data/
-```
-
-Your evaluation data should be here:
-
-```text
-Anotated_Game_Reviews_Data/data/test/
-Anotated_Game_Reviews_Data/data/train/
-```
-
-## 6. Run the RAG Agent Directly
+## 5. Run the RAG Agent Directly
 
 To run the basic demo question inside `Rag_Agent.py`:
 
@@ -233,67 +209,23 @@ On the first run, the program should:
 
 After the first run, the program should reuse the saved `faiss_index/` folder instead of rebuilding everything.
 
-## 8. Run the Evaluation Script
+## 6. Run the Evaluation Script
 
-The main evaluation file is:
+# For Testing and debugging
 
-```bash
-python run_evaluation.py
-```
+python Rag_Agent.py
 
-By default, it should run basic evaluation on the test split.
+python run_evaluation.py --mode basic --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode basic --split train --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode annotated --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode annotated --split train --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode compare --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode compare --split train --limit 3 --top-k 1 --max-output-tokens 80
 
-You can also run it explicitly:
+# For Final Run:
 
-```bash
-python run_evaluation.py --mode basic --split test
-```
-
-## Evaluation Commands
-
-### Basic Evaluation on Test Split
-
-```bash
-python run_evaluation.py --mode basic --split test
-```
-
-### Basic Evaluation on Train Split
-
-```bash
-python run_evaluation.py --mode basic --split train
-```
-
-### Annotated Evaluation on Test Split
-
-```bash
-python run_evaluation.py --mode annotated --split test
-```
-
-### Annotated Evaluation on Train Split
-
-```bash
-python run_evaluation.py --mode annotated --split train
-```
-
-### Compare Basic vs. Annotated Evaluation on Test Split
-
-```bash
-python run_evaluation.py --mode compare --split test
-```
-
-### Compare Basic vs. Annotated Evaluation on Train Split
-
-```bash
-python run_evaluation.py --mode compare --split train
-```
-
-### Print More Detailed Results
-
-Add `--verbose`:
-
-```bash
-python run_evaluation.py --mode compare --split test --verbose
-```
+python run_evaluation.py --mode compare --split test --top-k 3 --max-output-tokens 80 --save-results
+python run_evaluation.py --mode compare --split train --top-k 3 --max-output-tokens 80 --save-results
 
 ## Rebuild the FAISS Index
 
@@ -351,12 +283,14 @@ Then run:
 ```powershell
 # For Testing and debugging
 python Rag_Agent.py
-python run_evaluation.py --mode basic --split test
-python run_evaluation.py --mode basic --split train
-python run_evaluation.py --mode annotated --split test
-python run_evaluation.py --mode annotated --split train
+python run_evaluation.py --mode basic --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode basic --split train --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode annotated --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode annotated --split train --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode compare --split test --limit 3 --top-k 1 --max-output-tokens 80
+python run_evaluation.py --mode compare --split train --limit 3 --top-k 1 --max-output-tokens 80
 
 # For Final Run:
-python run_evaluation.py --mode compare --split test
-python run_evaluation.py --mode compare --split train
+python run_evaluation.py --mode compare --split test --top-k 3 --max-output-tokens 80 --save-results
+python run_evaluation.py --mode compare --split train --top-k 3 --max-output-tokens 80 --save-results
 ```
